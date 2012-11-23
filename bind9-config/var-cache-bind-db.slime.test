@@ -1,0 +1,19 @@
+$TTL    3600
+@       IN      SOA     shrpi.slime.test root.slime.test. (
+                   2007010403           ; Serial
+                         3600           ; Refresh [1h]
+                          600           ; Retry   [10m]
+                        86400           ; Expire  [1d]
+                          600 )         ; Negative Cache TTL [1h]
+;
+@       IN      NS      shrpi.slime.test.
+@       IN      MX      10 shrpi.slime.test.
+
+shrpi     IN      A       192.168.0.2
+shnet	  IN	  A	  192.168.0.50
+router	  IN	  A	  192.168.0.1
+shmac	  IN	  A	  192.168.0.51
+jbrpi	  IN	  A	  192.168.0.52
+jblap	  IN	  A	  192.168.0.53
+sfrpi	  IN	  A	  192.168.0.54
+sfmac	  IN	  A	  192.168.0.55
