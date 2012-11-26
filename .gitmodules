@@ -1,3 +1,6 @@
 [submodule "NamespaceTV"]
 	path = NamespaceTV
 	url = https://github.com/witt0191/NamespaceTV.git
+[submodule "Chuck-Slime"]
+	path = Chuck-Slime
+	url = https://github.com/HELOpg/Chuck-Slime.git
