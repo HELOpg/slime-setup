@@ -7,3 +7,6 @@
 [submodule "pd-slime"]
 	path = pd-slime
 	url = https://github.com/HELOpg/pd-slime.git
+[submodule "Max-Slime"]
+	path = Max-Slime
+	url = https://github.com/HELOpg/Max-Slime.git
