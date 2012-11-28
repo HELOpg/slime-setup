@@ -4,3 +4,6 @@
 [submodule "Chuck-Slime"]
 	path = Chuck-Slime
 	url = https://github.com/HELOpg/Chuck-Slime.git
+[submodule "pd-slime"]
+	path = pd-slime
+	url = https://github.com/HELOpg/pd-slime.git
