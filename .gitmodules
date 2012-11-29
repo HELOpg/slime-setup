@@ -10,3 +10,6 @@
 [submodule "Max-Slime"]
 	path = Max-Slime
 	url = https://github.com/HELOpg/Max-Slime.git
+[submodule "Deploy-Slime"]
+	path = Deploy-Slime
+	url = https://github.com/HELOpg/Deploy-Slime.git
