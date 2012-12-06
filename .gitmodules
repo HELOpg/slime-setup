@@ -13,3 +13,6 @@
 [submodule "Deploy-Slime"]
 	path = Deploy-Slime
 	url = https://github.com/HELOpg/Deploy-Slime.git
+[submodule "performances-slime"]
+	path = performances-slime
+	url = https://github.com/HELOpg/performances-slime.git
